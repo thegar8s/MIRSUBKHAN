@@ -25,11 +25,3 @@
 | :--- | :--- | :--- |
 | **BestBW Games** | Itch.io | [Visit Store](https://bestbw-games.itch.io/) |
 | **Moyaki Please** | Itch.io | [Play Now](https://gar8s.itch.io/moyaki-please) |
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=thegar8s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegar8s&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
