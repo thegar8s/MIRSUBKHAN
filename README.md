@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🎮 My Games (Мои игры)
+### 🎮 My Games on Unity (Мои игры на Unity)
 | Project | Platform | Link |
 | :--- | :--- | :--- |
 | **BestBW Games** | Itch.io | [Visit Store](https://bestbw-games.itch.io/) |
