@@ -23,5 +23,6 @@
 ### 🎮 My Games on Unity (Мои игры на Unity)
 | Project | Platform | Link |
 | :--- | :--- | :--- |
-| **BestBW Games** | Itch.io | [Visit Store](https://bestbw-games.itch.io/) |
+| **Volt** | Itch.io | [Play Now](https://bestbw-games.itch.io/volt) |
+| **Kawi Bawi Bo!** | Itch.io | [Play Now](https://bestbw-games.itch.io/kawi-bawi-bo) |
 | **Moyaki Please** | Itch.io | [Play Now](https://gar8s.itch.io/moyaki-please) |
