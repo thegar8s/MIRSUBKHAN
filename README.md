@@ -1,5 +1,5 @@
 # Hi there, I'm Mirsubkhan 👋
-### Trader | C++, Python / Game Developer
+### FX Trader | C++, Python / Game Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thegar8s&label=Profile%20views&color=0e75b6&style=flat" alt="thegar8s" />
