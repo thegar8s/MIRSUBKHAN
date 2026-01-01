@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Blender-333333?style=for-the-badge&logo=blender&logoColor=white&color=orange" alt="Blender" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/:badgeContent?logo=https%3A%2F%2Fimg.icons8.com%2Fios_filled%2F512%2Fc-sharp-logo.png?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
 ### 🎮 My Games on Unity (Мои игры на Unity)
